@@ -12,3 +12,8 @@
 ### caso o comando não instale as bibliotecas rode este comando
 
 #### npm i puppeteer dotenv
+
+##
+
+### para rodar utilize o 
+#### node index.js
